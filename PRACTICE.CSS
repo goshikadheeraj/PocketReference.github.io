@@ -3,6 +3,7 @@
     padding: 0px;
 }
 .Heading{
+    block-size: 50px;
     padding-block: 1mm;
     text-align: center;
     background-color: rgb(255, 183, 0);
