@@ -3,6 +3,9 @@
     margin: 0px;
     padding: 0px;
 }
+.Main{
+    background-color:grey;
+}
 .Heading{
     block-size: 50px;
     padding-block: 1mm;
